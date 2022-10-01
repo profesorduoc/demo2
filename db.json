@@ -24,5 +24,5 @@
   "autos": [
       { "patente": "FF-HH-22", "id_usuario": 2, "marca": "Audi" }
       { "patente": "GG-11-RR", "id_usuario": 2, "marca": "BMW" }
-    ],
+    ]
 }
