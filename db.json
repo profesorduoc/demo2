@@ -20,5 +20,9 @@
       { "id": 1, "id_estudiante": 2, "id_asigsecci": 1 },
       { "id": 2, "id_estudiante": 3, "id_asigsecci": 1 },
       { "id": 2, "id_estudiante": 3, "id_asigsecci": 2 }
-    ]
+    ],
+  "autos": [
+        { "patente": "FF-HH-22", "id_usuario": 2, "marca": "Audi" },
+        { "patente": "GG-11-RR", "id_usuario": 2, "marca": "BMW" }
+      ]
 }
