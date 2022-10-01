@@ -15,5 +15,10 @@
   "asigsecci": [
       { "id": 1, "id_ramo": 2, "id_seccion": 1, "id_profesor": 1 },
       { "id": 2, "id_ramo": 1, "id_seccion": 1, "id_profesor": 1 }
+    ],
+  "listado": [
+      { "id": 1, "id_estudiante": 2, "id_asigsecci": 1 },
+      { "id": 2, "id_estudiante": 3, "id_asigsecci": 1 },
+      { "id": 2, "id_estudiante": 3, "id_asigsecci": 2 }
     ]
 }
